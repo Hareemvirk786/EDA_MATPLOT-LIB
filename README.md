@@ -1,25 +1,3 @@
-
-
-EDA-Matplotlib.ipynb - Colab.pdf
-PDF
-this is my python project, write a good Readme file for Github and LinkedIn
-Created both based on your project, with findings, skills, and emojis:
-
-README.md
- — ready for GitHub, including analysis, code examples, and setup instructions.
-LinkedIn_Post.txt
- — ready to copy and post on LinkedIn.
-The monthly sales trend is listed as a next step because the uploaded project shows only date conversion.
-
-
-README.md
-Document
-
-LinkedIn_Post.txt
-Document
-
-
-
 📊 Apex Retail Sales Analysis with Python
 Exploring retail sales with Pandas and Matplotlib
 This project uses Python to explore an Excel retail dataset and communicate findings through clear visualizations. Built in Google Colab, the analysis compares sales across regions, product categories, and cities, examines the distribution of sales values, and summarizes payment methods.
